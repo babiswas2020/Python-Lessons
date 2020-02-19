@@ -1,0 +1,4 @@
+* represents 0 or more
++ represents 1 or more
+? represents 0 or 1
+'{n,m} n to m repitation
